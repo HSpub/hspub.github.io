@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    JP Hastings-Spital -- Software -- @jphastings
+    Chris Hastings-Spital -- Design -- @chrismhs
+    Kerry Hastings-Spital -- Author
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Docker, jQuery, Modernizr, Normalize.css
