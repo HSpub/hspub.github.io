@@ -148,6 +148,26 @@ img {
     max-width: 100%;
 }
 
+.book {
+    width: 100%;
+    text-align: center;
+    height: 40.5vw;
+}
+
+.book .page {
+    position: absolute;
+    width: 90vw;
+    height: 40.5vw;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+}
+
+.sales {
+    text-align: center;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
