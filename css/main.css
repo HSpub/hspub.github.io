@@ -369,17 +369,14 @@ div.center {
   text-align:center;
 }
 
-span.dropcap {
-  float: left;
-  font-size: 2.5rem;
-  line-height: 1rem;
-  padding: 0px 6px 0 0;
-  font-variant: small-caps;
-  bottom: 0.35rem;
+section.introduction p {
   position: relative;
 }
 
-span.phone {
-  font-size: 1.1rem;
-  line-height: 1rem;
+section.introduction p:first-child:before {
+  content: '“';
+  font-size: 3rem;
+  position: absolute;
+  left: -36px;
+  top: -18px;
 }
