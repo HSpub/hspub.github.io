@@ -380,3 +380,8 @@ section.introduction p:first-child:before {
   left: -36px;
   top: -18px;
 }
+
+.phone {
+  font-size: 1.2rem;
+  line-height: 1rem;
+}
